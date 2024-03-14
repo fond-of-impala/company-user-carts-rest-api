@@ -6,6 +6,10 @@
     {
       "name": "Daniel Rose",
       "email": "daniel-rose@gmx.de"
+    },
+    {
+      "name": "Julian Hyatt",
+      "email": "dev@jzit.de"
     }
   ],
   "scripts": {
@@ -16,6 +20,7 @@
   },
   "require": {
     "php": ">=8.0",
+    "fond-of-impala/company-user-carts-rest-api-extension": "^1.0.0",
     "fond-of-impala/company-user-reference": "^1.0.0",
     "spryker/cart": "^7.3.0",
     "spryker/glue-application": "^1.0.0",
